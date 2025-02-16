@@ -1,16 +1,39 @@
-# health_thether
+# Health Tether App
 
-A new Flutter project.
+A simple Flutter app that fetches user data from an API and displays it in a ListView.
 
-## Getting Started
+## Features
+- Fetch users from API
+- Display users in a ListView with place holder
+- Handle loading and error states
+- Pull-to-refresh and search functionality
+- Brief Onboarding
 
-This project is a starting point for a Flutter application.
+## Installation
+1. Clone the repository:
+   git clone https://github.com/yourusername/yourrepo.git
 
-A few resources to get you started if this is your first Flutter project:
+Install dependencies:
+flutter pub get
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Run the app:
+flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dependencies:
+Provider
+Http
+Flutter ScreenUtil
+Flutter SpinKit
+google_fonts: ^4.0.0
+smooth_page_indicator: ^1.2.0+3
+shared preferences
+
+
+### 4. **Push to GitHub**
+git init
+git add .
+git commit -m "Initial commit with documentation"
+git branch -M main
+git remote add origin https://github.com/yourusername/yourrepo.git
+git push -u origin main
+
