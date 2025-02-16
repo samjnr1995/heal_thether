@@ -11,7 +11,7 @@ A simple Flutter app that fetches user data from an API and displays it in a Lis
 
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/yourusername/yourrepo.git
+   git clone https://github.com/samjnr1995/heal_thether.git
 
 Install dependencies:
 flutter pub get
