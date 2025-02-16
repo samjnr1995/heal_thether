@@ -8,6 +8,11 @@ A simple Flutter app that fetches user data from an API and displays it in a Lis
 - Handle loading and error states
 - Pull-to-refresh and search functionality
 - Brief Onboarding
+## Flutter version
+Flutter 3.24.5 
+
+environment:
+  sdk: ^3.5.4
 
 ## Installation
 1. Clone the repository:
